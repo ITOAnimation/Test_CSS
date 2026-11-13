@@ -1,0 +1,14 @@
+#card{
+    background-color: rgb(red,50,170,90 );
+    width: 190px;
+    height: 250px;
+    color: rgb(253, 1, 1);
+    font-family: Arial,Sans-serif;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+#card-image{
+    width: 270;
+    height: 150px;
+    border-radius: 50%;
+}
